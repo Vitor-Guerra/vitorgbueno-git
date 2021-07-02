@@ -1,0 +1,1 @@
+O curso está sendo bem interessante. Já conheci bastante sobre as aulas iniciais, porém essa aula de Git foi bem diferente. Ainda mais para quem não teve nenhum com contato com o Git ainda.
